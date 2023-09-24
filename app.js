@@ -1,9 +1,5 @@
-// This is a comment line
+// variable declarations
 
-/*
-    This
-    is
-    multiple
-    comment
-    line
- */
+let a = 10;
+let x = "Selin";
+let y = true;
